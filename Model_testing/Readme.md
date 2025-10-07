@@ -22,6 +22,6 @@ Although it currently runs as a standalone GUI-based demo, the structure allows 
 
 
 ### 🖼️ GUI Preview
-Below is the interface of the Traffic Sign Recognition app:
+The user interface for testing the traffic sign recognition model is shown below:
 
 ![Traffic Sign Recognition GUI](image/Screenshot.png)
